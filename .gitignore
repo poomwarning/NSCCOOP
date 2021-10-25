@@ -2,4 +2,5 @@
 /headuv.psd
 /data/model/headuv.psd
 data/model/headuv.psd
-*.psd
+model
+headuv.psd
